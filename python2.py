@@ -20,7 +20,7 @@ b = 25
 print(a + b)
 
 name = "Shohrux"
-print("Salom, " + my_name +"!")
+print("Salom, " + name +"!")
 
 x = 10
 print("Eski qiymat:", x)
