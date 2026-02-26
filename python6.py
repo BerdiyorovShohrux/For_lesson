@@ -53,19 +53,3 @@ if soz == "Python":
     print("To'g'ri!")
 else:
     print("Qayta urinib ko'ring!")
-
-kun = input("Hafta kunini kiriting: ").lower()
-if kun == "dushanba":
-    print("Hafta boshi")
-elif kun == "seshanba":
-    print("O'qish kuni")
-elif kun == "chorshanba":
-    print("Hafta o'rtasi")
-elif kun == "payshanba":
-    print("Kino kuni")
-elif kun == "juma":
-    print("Muborak kun")
-elif kun == "shanba" or kun == "yakshanba":
-    print("Dam olish kuni")
-else:
-    print("Bunday hafta kuni yo'q")
